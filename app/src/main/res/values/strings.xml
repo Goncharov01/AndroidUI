@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BottomNavigation</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="action_search">action_search</string>
+    <string name="action_cart">action_cart</string>
+    <string name="action_hot_deals">action_hot_deals</string>
+    <string name="your_quote">bealive</string>
+    <string name="status">What new?</string>
+    <string name="_4_photo">4 Photo</string>
+    <string name="_100_friends">100-friends</string>
+    <string name="online_status">Online</string>
+    <string name="goncharov_alexander">Goncharov Alexander</string>
+    <string name="button">Button</string>
+    <string name="edit">Edit</string>
+
+
+</resources>
